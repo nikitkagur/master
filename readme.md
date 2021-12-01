@@ -1,7 +1,7 @@
 
 <center>Ссылки на практики</center>
 <center>=========================</center>
-<center><a href="http://git.scc/git/Repository/3c210b2d-e9d0-47c6-b2de-3ffa4c58babd/master/Raw/ALLPRACTIC.zip">Скачать все практики</a></center>
+<center><a href="http://git.scc/git/Repository/c48b7ec4-6440-4794-9a24-4a690327ceef/master/Raw/pr.zip">Скачать все практики</a></center>
 <center>=========================</center>
 <center><a href="http://git.scc/git/Repository/3c210b2d-e9d0-47c6-b2de-3ffa4c58babd/master/Tree/~d0~9c~d0~94~d0~9a~2001.03/pr02">Практика № 2</a></center>
 <center>=========================</center>
